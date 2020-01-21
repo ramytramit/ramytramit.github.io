@@ -34,20 +34,25 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "graphic design",
+      "name": "Graphic Design",
       "keywords": [
       ]
     },
     {
-      "name": "sound synthesis",
+      "name": "Sound Synthesis",
       "keywords": [
       ]
-    }
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+      ]
+    },
   ],
   "skills": [
     {
