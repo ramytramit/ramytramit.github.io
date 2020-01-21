@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "ramytramyt",
+        "username": "ramytramit",
         "url": "http://github.com/ramytramit"
       },
       {
@@ -100,12 +100,22 @@
         "Managed 20th and 25th Anniversary year-long events, as well as all major fundraising events for agency."
       ]
     }
-    
-
+    {
+      "company": "AYA Events",
+      "position": "Owner and Principle Producer",
+      "website": "",
+      "startDate": "1997-12-01",
+      "endDate": "Present",
+      "summary": "Manage promotions, marketing and project organization for clubs and specialized music/dance events. ",
+      "Developing, maintaining and coordinating public relations with clientele, media and a variety of sponsors."
+      "highlights": [
+        "Featured Spotlight in two magazines.",
+        "Developing relationships with key international booking agents, celebrated performing artists and renowned clubs,"
+        "Produced & performed at events for high end establishments such as Morimoto Waikiki, St. Regis Princeville, Nobu Waikiki, The Edition Hotel, The Modern Honolulu, Modern Luxury Magazine, Luxury Row, Salvatore Ferragamo, and Emporio Armani."
+      ]
+    }
   ],
   
-
-
   "references": [
     {
       "name": "Available upon request",
