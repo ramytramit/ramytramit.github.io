@@ -21,14 +21,14 @@
         "url": "http://github.com/ramytramit"
       },
       {
-        "network": "linkedin",
-        "username": "ramit-islam",
-        "url": "https://www.linkedin.com/in/ramit-islam/"
-      },
-      {
         "network": "instagram",
         "username": "ramytramyt",
         "url": "http://instagram.com/ramytramyt"
+      },
+      {
+        "network": "linkedin",
+        "username": "ramit-islam",
+        "url": "https://www.linkedin.com/in/ramit-islam/"
       }
     ]
   },
