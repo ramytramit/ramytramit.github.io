@@ -9,10 +9,9 @@ date: 2020-01-23
 labels:
   - Music
   - Studio
-  - Renovation
   - Buildout
 
-summary: My music studio that I build about 5 years ago.
+summary: My music studio that I built about 5 years ago.
 ---
 
 <img class="ui large floated rounded image" src="../images/studio-pre.jpg">
