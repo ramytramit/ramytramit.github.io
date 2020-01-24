@@ -54,6 +54,7 @@ He sent me a picture of the pile of “garbage” as he called it, and I instant
 <br>
 <br>
 <br>
+<br>
 
 
 In the end, the process was rewarding, even though it took a toll on my wallet. Rebuilding two turntables from a pile of what was basically rubble, was a great, satisfying experience, not to mention they look pretty amazing in my eyes. I’m not sure I would attempt it again, but the project was worth the time and money.
