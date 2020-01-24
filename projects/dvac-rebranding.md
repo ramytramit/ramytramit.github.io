@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/DVAC-Logo2.png
+image: images/DVAC-Logo1.jpg
 title: DVAC Rebranding
 permalink: projects/dvac-rebranding
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
-<img class="ui medium centered floated rounded image" src="../images/DVAC-Logo2.png">
+<img class="ui medium floated rounded image" src="../images/DVAC-Logo1.jpg">
 
 
 In late 2013, the agency I worked with started to plan our 25th Anniversary celebrations. The idea was to do a year-long series of events, which culminated with a reveal of a new logo and the launch of a new website, followed by a redesign of all of our main agency collateral pieces, all of which was to happen in October of 2015. It was a monumental task to oversee, as the event management and planning itself was enormous in its scope. While I won’t focus on all the details of the event planning, I do want to talk about the rebranding effort which I was the proudest of.
