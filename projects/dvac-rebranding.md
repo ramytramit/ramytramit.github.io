@@ -10,12 +10,11 @@ labels:
   - Branding
   - Wordpress
 
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A rebranding and website creation for a non-profit agency, Domestic Violence Action Center.
 ---
 
 <img class="ui large floated rounded image" src="../images/DVAC-Logo1.jpg">
 <br>
-<hr>
 
 
 
