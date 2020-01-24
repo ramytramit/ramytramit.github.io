@@ -11,7 +11,7 @@ labels:
   - Technics
   - Refurbish
 
-summary: Two Technics turntables that I rebuilt a few summers ago.
+summary: Two Technics turntables that I rebuilt from spare components a few summers ago.
 ---
 
 <img class="ui large centered floated rounded image" src="../images/broken-technics.jpg">
