@@ -16,7 +16,7 @@ summary: My music studio that I built about 5 years ago.
 <div class="ui divider"></div>
 <br>
 
-<img class="ui fluidrounded image" src="../images/studio-pre.jpg">
+<img class="ui fluid rounded image" src="../images/studio-pre.jpg">
 <br>
 
 **As I'm sure I mentioned a few times** in my profile, I'm a bit of a music fan. About 6 or 7 years ago, my wife was in the process of redesigning the downstairs portion of her house so we could move into it. She knew I always wanted to have my own studio, so she asked me if I’d like to have my own space for it the newly renovated space. Of course, without any hesitation, I said, “YES!” … there was one caveat though, and that was that I had to build it myself. She would extend her old walk-in closet into 1/3 of her old bedroom, and I could 1/3 of the space for my studio, and the outside area as a lounge. I just needed to design and build it all myself. I love a good challenge, so I took her up on it.
@@ -39,4 +39,4 @@ summary: My music studio that I built about 5 years ago.
 
 **I have to admit,** the music studio was one of the most satisfying projects I have ever worked on. The lounge came out quite nice, too, but it’s the music room that I love to show off to my friends. As painful as the process was at times, I can't put a value on the things I learned from it. Ironically, I’ve been so busy with work, and now the CS program at UH, that I barely have time to make use of my music studio. Maybe after I’m done at UH, I’ll finally take a breather, get back into the studio and start working on music ... and figure out how to write software editors for some of my older synths.
 <br>
-
+<br>
