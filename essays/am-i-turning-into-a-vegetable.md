@@ -18,7 +18,6 @@ labels:
 <br>
 <div class="ui divider"></div>
 <br>
-<br>
 
 <img class="ui small left circular floated image" src="../images/vegetable.jpg">
 
@@ -29,9 +28,9 @@ labels:
 <br>
 <div class="ui divider"></div>
 <br>
-<br>
 
 <img class="ui small left circular floated image" src="../images/serum.gif">
 
 **I’m hoping** that my education at the University of Hawaii’s Computer Science Department will help me build the toolset I need to get a decent job working in the field, one which hopefully lends itself to giving me enough funding to start working on my passion projects such as designing software editors for my old hardware synths or just soft synths in general. I feel like I’m just scratching the surface of what is possible with the knowledge that I’ll attain from the CS program at UH Manoa. I truly hope that I’ll be able to expand on the types of projects I can pursue, combining both the need to make money and the pursuit of hobbies I've always had a love for. There’s something that stood out to me in our first class of 314, which was when Professor Moore asked what we were passionate about. It really grabbed me. When I first decided to venture away from college over 15 years ago, that’s what I pursued – may passion. But when it didn’t quite gain the success I had hoped, I ended up at a job that fit my skillset at the time. I remember in my first month there, my CEO very specifically said to me, “Ramit, I don’t understand why anyone would pursue a career that didn’t tie into what they love to do (referring to herself in that particular conversation).”  … well, after 10 years in that job, here I am. Maybe I’ve come full circle. I sure hope so.
+<br>
 <br>
