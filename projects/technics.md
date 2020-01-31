@@ -31,3 +31,5 @@ He sent me a picture of the pile of “garbage” as he called it, and I instant
 
 
 **In the end,** the process was rewarding, even though it took a toll on my wallet. Rebuilding two turntables from a pile of what was basically rubble, was a great, satisfying experience, not to mention they look pretty amazing in my eyes. It was a great learning experience, in which I learned from both my failures and successes in the rebuild/refurbish process. Not that I have time to take on a project like this again, but I;m already thinking about the next upgrade I'd like to perform on one of the turntables. The entire experience was worth the time and money spent. 
+<br>
+<br>
