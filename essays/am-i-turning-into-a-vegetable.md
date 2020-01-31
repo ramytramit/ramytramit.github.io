@@ -16,16 +16,13 @@ labels:
 
 **Rather late in my life** I decided to make a measured decision to delve headfirst into a career change. Little did I realize what I was in for. Returning to school after over 15 years of a hiatus, was in itself quite the challenge, but I really had no idea how time consuming the CS program would be. It’s definitely been quite a struggle, but it’s one that I’m committed to overcoming. That said, let me just put it out there that I’m definitely not the best coder (yet), but I’m doing my best to get better, and faster at it. I make lots of really stupid mistakes (like I did on this week's WOD). So, if you see me looking utterly confused, it’s probably because I am. But hey, I’m determined! That counts for something, right?
 <br>
-<br>
 <div class="ui divider"></div>
-<br>
 
 <img class="ui small left circular floated image" src="../images/vegetable.jpg">
 
 **My initial interests** in software engineering came from two things essentially: 
 1) My current career had reached a bit of a dead end a number of years ago, with not much room for growth. It was definitely time for a change, as there was no point in me being a vegetable at a desk.
 2) Mobile apps have always piqued my curiosity – especially the range of what you can build, and the audience that you can build apps for. While I haven’t taken much interest in website development, I’ve definitely had a little experience with backend coding, mostly with HTML, and a little with CSS. I’ve also had an interest with developing software interfaces for older hardware synths that never had any apps developed for them - mostly because they were made at a time when running the gear was mostly through midi interfaces and hardware, and DAW’s weren’t really a thing – and also for synths that have lost software support due again to age of the product. 
-<br>
 <br>
 <div class="ui divider"></div>
 
