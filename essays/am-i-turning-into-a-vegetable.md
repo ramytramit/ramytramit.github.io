@@ -15,7 +15,10 @@ labels:
 
 **Rather late in my life** I decided to make a measured decision to delve headfirst into a career change. Little did I realize what I was in for. Returning to school after over 15 years of a hiatus, was in itself quite the challenge, but I really had no idea how time consuming the CS program would be. It’s definitely been quite a struggle, but it’s one that I’m committed to overcoming. That said, let me just put it out there that I’m definitely not the best coder (yet), but I’m doing my best to get better, and faster at it. I make lots of really stupid mistakes (like I did on this week's WOD). So, if you see me looking utterly confused, it’s probably because I am. But hey, I’m determined! That counts for something, right?
 <br>
-
+<br>
+<div class="ui divider"></div>
+<br>
+<br>
 
 <img class="ui small left circular floated image" src="../images/vegetable.jpg">
 
@@ -25,6 +28,8 @@ labels:
 <br>
 <br>
 <div class="ui divider"></div>
+<br>
+<br>
 
 <img class="ui small left circular floated image" src="../images/serum.gif">
 
