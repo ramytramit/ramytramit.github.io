@@ -15,7 +15,7 @@ summary: A rebranding and website creation for a non-profit agency, Domestic Vio
 ---
 <div class="ui divider"></div>
 <br>
-<img class="ui fluid rounded image" src="../images/DVAC-Logo1.jpg">
+<img class="ui fluid circular image" src="../images/DVAC-Logo1.jpg">
 <br>
 
 In late 2013, the non-profit agency I worked with started to plan their 25th Anniversary celebrations. The idea was to do a year-long series of events, which culminated with a reveal of a new logo and the launch of a new website, followed by a redesign of all of our main agency collateral pieces, all of which was to happen in October of 2015. It was a monumental task to oversee, as the event management and planning itself was enormous in its scope. While I won’t focus on all the details of the event planning, I do want to talk about the rebranding effort which I was the proudest of.
