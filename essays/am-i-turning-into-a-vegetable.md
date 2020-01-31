@@ -10,7 +10,7 @@ labels:
   - Passions
   - Vegetables
 ---
-<br>
+
 <br>
 <img class="ui small left circular floated image" src="../images/confused.gif">
 
