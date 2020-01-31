@@ -13,8 +13,9 @@ labels:
 
 summary: A rebranding and website creation for a non-profit agency, Domestic Violence Action Center.
 ---
-
-<img class="ui medium floated rounded image" src="../images/DVAC-Logo1.jpg" align="center">
+<div class="ui divider"></div>
+<br>
+<img class="ui medium bordered rounded image" src="../images/DVAC-Logo1.jpg">
 <br>
 <br>
 <br>
@@ -33,9 +34,9 @@ In late 2013, the non-profit agency I worked with started to plan their 25th Ann
 
 While Domestic Violence Action Center's CEO wasn’t initially thrilled with the idea of changing the logo, everyone on the board felt it was time for a refresh. I was on their side on almost all aspects, until it came time to discuss who should do the logo/branding design. Quite a number of them thought we should try it ourselves (meaning me), while others felt that we should use one of those cheap logo bidding/outsourcing sites. I disliked both ideas, and felt it was best to have a professional with experience do it, but those definitely cost a pretty penny just for the logo design along, without even getting into website design and collateral design. So, much to my (and another board member’s protest) we went with a few cheap bidding logo sites, wasted about $500 and ended up with 3 or 4 extremely corny logo ideas. This gave me and the other board member a little weight to push through our idea to just hire a professional. I happened to know a few up and coming graphic designers, and we ended up hiring one that fit and understood the mission of our non-profit. We went through a 3-month process and finally ended up with a fresh design with a look and feel that everyone loved.
 
-<p align="center">
-<img class="ui large floated rounded image" src="../images/DVAC-website.png">
-</p>
+<br>
+<img class="ui fluid rounded image" src="../images/DVAC-website.png">
+
 <br>
 <br>
 <br>
