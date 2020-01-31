@@ -13,7 +13,7 @@ labels:
 
 summary: Two Technics turntables that I rebuilt from spare components a few summers ago.
 ---
-
+<div class="ui divider"></div>
 <img class="ui fluid rounded image" src="../images/broken-technics.jpg">
 
 <br>
