@@ -28,7 +28,6 @@ labels:
 <br>
 <br>
 <div class="ui divider"></div>
-<br>
 
 <img class="ui small left circular floated image" src="../images/serum.gif">
 
