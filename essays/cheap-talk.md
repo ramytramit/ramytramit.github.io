@@ -19,7 +19,7 @@ While I was looking up quotes to find some inspiration for this write up, I stum
 ### Why is it important to develop and maintain good coding standards?
 <img class="ui fluid image" src="../images/messy-code-bart.gif">
 
-Well, for one, I really think it'll make you a better coder in the long run. And who knows, maybe the guy that ends up maintaining your code really ***is*** a psychopath! And what would upset him/her more than looking at thousands of lines of sloppy, undecipherable code to sift through? Y
+Well, for one, I really think it'll make you a better coder in the long run. And who knows, maybe the guy that ends up maintaining your code really ***is*** a psychopath! And what would upset him/her more than looking at thousands of lines of sloppy, undecipherable code to sift through? Yep, you guessed it!
 
 I truly believe in the importance of learning proper coding standards and habits from the beginning of your career as a programmer. I appreciate that all my professors at UH so far have insisted on instilling that mentality into us in each class that I've taken there. It's similar to how my parents taught me (or tried to at least) how to write clearly and neatly when I was young. Going back to when I was in elementary school, I had to do handwriting exercises daily and write reports weekly, just so I could learn to write better as I was growing up. Fast forward to now, and unfortunately my handwriting is still pretty terrible, but I understand the reasoning behind the exercises at least! I think what we're currently doing with ESLint is similar to that in many ways - training your brain to be better at certain tasks.
 
