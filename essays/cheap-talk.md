@@ -29,3 +29,5 @@ It's important that your code is "healthy" and free of errors, and ESLint helps 
 <img class="ui fluid image" src="../images/american-psycho.jpg">
 
 When you're out in the real world, working for your self or for a company, it's also very important to adopt better coding standards. Why? Because having this type of practice makes you a more efficient coder, and being more efficient, in the long run, means you're a better employee who can code faster and with less errors, making your company more money. Efficiency also lends itself to avoiding performance issues and possibly security issues as well. It also helps you reduce the complexity of your code, which makes it easier to read, and easier to find bugs, easier to reuse and ideally easier to maintain ... and if it's easier to maintain, well, I guess you won't need to worry about any violent psychopaths showing up at your door, right?
+
+
