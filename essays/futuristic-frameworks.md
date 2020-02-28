@@ -30,4 +30,4 @@ The Semantic framework gives you great looking, UI out of the box with consisten
 ### Future Frameworks
 <img class="ui fluid image" src="../images/future-dev.png">
 
-Sure, anyone can just use site builders like WordPress, Wix or Squarespace to build a beautifully themed site, but building one from the scratch is much more satisfying and knowing how the internal nuts and bolts function is why I’m here. And that said, I’m very interested in learning about React and Meteor this semester as well as the other frameworks that are out there such as Bootstrap, Vue, Flutter and AngularJS, the last of which I’m currently having a bit of a nightmare experience with.
+Sure, anyone can just use site builders like WordPress, Wix or Squarespace to build a beautifully themed site, but creating one from scratch is much more satisfying, and understanding how the internal nuts and bolts of a website function is why I’m here. And that said, I’m very interested in learning about React and Meteor this semester as well as the other frameworks that are out there such as Bootstrap, Vue, Flutter and AngularJS (the last of which I’m currently having a bit of a nightmare experience with).
