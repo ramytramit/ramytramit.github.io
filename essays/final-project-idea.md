@@ -11,6 +11,8 @@ labels:
 <br>
 
 <img class="ui small left circular floated image" src="../images/idea-seed.png">
+
+
 # Project APPleseed
 <div class="ui divider"></div>
 
