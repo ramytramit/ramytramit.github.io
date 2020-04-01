@@ -10,7 +10,7 @@ labels:
 
 <br>
 # Project APPleseed
-<img class="ui fluid circular image" src="../images/idea-seed.png">
+<img class="ui small fluid circular image" src="../images/idea-seed.png">
 
 
 ## Overview
