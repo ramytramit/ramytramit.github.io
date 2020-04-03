@@ -12,16 +12,14 @@ labels:
 
 <br>
 
-# COVFEFE-19
-<br>
-
 <img class="ui small left circular fluid image" src="../images/covfefe-virus.jpg">
 Wow, so where do we start on this essay? There’s so much I want to express, but at the same time, I realize that the problem is so much bigger than just me. I’m sitting safe and cozy in a home with most of what I need, while there are people dying as a result of Covid-19. And who knows how many millions could potentially die in impoverished countries where there is absolutely NO possible way their healthcare systems can cope with the spread of this virus. 
 <br>
 <div class="ui divider"></div>
 
 ## Daily Routine
-<img class="ui small left circular fluid image" src="../images/covfefe-daily.jpg">
+<img class="ui small left circular floated image" src="../images/covfefe-daily.jpg">
+
 However, since this essay is about my worries, however minuscule they may be in the grand scheme of things, I’ll focus on them. How has my daily routine changed? Well, for one, I wake up a bit later in the morning, just because I don’t have a commute time anymore. Commuting from my bedroom to my studio room to log-in for work takes about 15 seconds. I’m thoroughly enjoying not having to get ready for school or work. It’s given me more time in the day to get things done, which is great. I do miss the physical connection and social interactions with classmates, co-workers, and people in general. My wife’s also working remotely, and we’ve somehow managed not to get on each other’s nerves in the slightest, but that’s probably because we’ve set some boundaries and space between us. And she’s a great cook, so eating her food for 90% of our meals and not spending money on take-out is quite welcomed. Not much else has changed really. As an ICS student, I barely had a social life, so I’d say I was well prepped for social distancing anyway. I’m also watching/reading the news a bit more frequently, and with the time saved from commuting I think we’re doing a much better job at keeping our house clean.
 
 <br>
