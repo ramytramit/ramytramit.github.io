@@ -13,13 +13,15 @@ labels:
 <br>
 
 <img class="ui medium centered circular fluid image" src="../images/covfefe-virus.jpg">
-
+<br>
 Wow, so where do we start on this essay? There’s so much I want to express, but at the same time, I realize that the problem is so much bigger than just me. I’m sitting safe and cozy in a home with most of what I need, while there are people dying as a result of Covid-19. And who knows how many millions could potentially die in impoverished countries where there is absolutely NO possible way their healthcare systems can cope with the spread of this virus. 
 <br>
 <div class="ui divider"></div>
 
-## Daily Routine
 <img class="ui small left circular floated image" src="../images/covfefe-daily.jpg">
+<p align="center">
+## Daily Routine
+</p>
 
 However, since this essay is about my worries, however minuscule they may be in the grand scheme of things, I’ll focus on them. How has my daily routine changed? Well, for one, I wake up a bit later in the morning, just because I don’t have a commute time anymore. Commuting from my bedroom to my studio room to log-in for work takes about 15 seconds. I’m thoroughly enjoying not having to get ready for school or work. It’s given me more time in the day to get things done, which is great. I do miss the physical connection and social interactions with classmates, co-workers, and people in general. My wife’s also working remotely, and we’ve somehow managed not to get on each other’s nerves in the slightest, but that’s probably because we’ve set some boundaries and space between us. And she’s a great cook, so eating her food for 90% of our meals and not spending money on take-out is quite welcomed. Not much else has changed really. As an ICS student, I barely had a social life, so I’d say I was well prepped for social distancing anyway. I’m also watching/reading the news a bit more frequently, and with the time saved from commuting I think we’re doing a much better job at keeping our house clean.
 
@@ -28,7 +30,9 @@ However, since this essay is about my worries, however minuscule they may be in 
 
 <img class="ui small centered circular fluid image" src="../images/covfefe-community.png">
 
+<p align="center">
 ## Work, Family and Community
+</p> 
 Fortunately for me, I’ve been lucky enough to work remotely. However, as I’m new at STAR, I’ve got quite a lot to learn, and even though we have the tools to share screens, use voice channels, etc. I still find it challenging asking for help – and since I know almost nothing about using AngularJS, I often find myself asking for a lot of it. On the one hand, it’s better that I look for solutions on my own, but on the other hand, I find myself being a bit slower asking for help when I need it. I just hope that doesn’t hurt me too much in this new job.
 
 Family obligations have mostly consisted of my wife scolding her parents about being careful since they both have to go to work physically, and they tend to not take these kinds of things too seriously, and me scolding my parents about the same things. My father doesn’t even have to work, yet he feels he needs to go to the office to do god knows what? Check his fish tanks or something. But he lives in Dhaka, so I have no way of trying to make sure he actually listens. My mother is sadly stuck in Dhaka (she was there on a trip to do research for a book), due to a series of cancelled flights and lockdown on airports. We’ve already lost a decent amount of money on flight re-bookings, and now we are trying to figure out ways to mitigate her bills while she’s away. Two months ago, when I was at my previous job with my previous pay, it would not have been an issue, but after having moved over to my current job, so I could learn how to be a better coder while taking a 75% pay cut, it’s definitely stressing me out. A lot. 
