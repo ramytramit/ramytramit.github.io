@@ -15,6 +15,7 @@ labels:
 <img class="ui medium centered circular fluid image" src="../images/covfefe-virus.jpg">
 <br>
 Wow, so where do we start on this essay? There’s so much I want to express, but at the same time, I realize that the problem is so much bigger than just me. I’m sitting safe and cozy in a home with most of what I need, while there are people dying as a result of Covid-19. And who knows how many millions could potentially die in impoverished countries where there is absolutely NO possible way their healthcare systems can cope with the spread of this virus. 
+
 <br>
 <div class="ui divider"></div>
 <br>
