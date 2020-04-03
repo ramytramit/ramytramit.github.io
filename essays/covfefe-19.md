@@ -19,10 +19,7 @@ Wow, so where do we start on this essay? There’s so much I want to express, bu
 <div class="ui divider"></div>
 
 <img class="ui small center circular fluid image" src="../images/covfefe-daily.jpg">
-<p align="center">
-
-## Daily Routine
-</p>
+<h2 align="center">Daily Routine</h2>
 
 However, since this essay is about my worries, however minuscule they may be in the grand scheme of things, I’ll focus on them. How has my daily routine changed? Well, for one, I wake up a bit later in the morning, just because I don’t have a commute time anymore. Commuting from my bedroom to my studio room to log-in for work takes about 15 seconds. I’m thoroughly enjoying not having to get ready for school or work. It’s given me more time in the day to get things done, which is great. I do miss the physical connection and social interactions with classmates, co-workers, and people in general. My wife’s also working remotely, and we’ve somehow managed not to get on each other’s nerves in the slightest, but that’s probably because we’ve set some boundaries and space between us. And she’s a great cook, so eating her food for 90% of our meals and not spending money on take-out is quite welcomed. Not much else has changed really. As an ICS student, I barely had a social life, so I’d say I was well prepped for social distancing anyway. I’m also watching/reading the news a bit more frequently, and with the time saved from commuting I think we’re doing a much better job at keeping our house clean.
 
@@ -49,10 +46,10 @@ With regards to my online social life, I’d have to say that it’s been a grea
 
 <img class="ui small center circular fluid image" src="../images/covfefe-UHM.jpg">
 
-<p align="center">
+<h2 align="center">
 
 ## College & COVID
-</p>
+</h2>
 
 While I’ve had semesters previously where all of my classes were online, it’s been weird adjusting in-person classes to online only ones. I really enjoyed having conversations with my classmates. It made the classes seem more … “real” … and it put more urgency to making sure that I got my assignments done on time. I don’t think there’s much room to slack off in 314, but I can’t really say that my time management’s been great. Furthermore, I was finally starting to do well in my WOD’s, which was a great feeling for someone who DNF’d as many as I did initially. The adrenaline rush from “yes, I finished!” is gone, and I miss it, but I don’t mind the new system as much. With the Meteor experiences getting harder as they go along, I’m completely fine with having the extra time to do them. However, for my mobile app design class, my partner and I are both having problems keeping up. I think having classes twice a week gave us real deadlines, and face to face talks (even though we can do it via discord or other technology), inspired us both to do more. Now, I feel as though we’re both struggling to get our project moving at a steady pace. Furthermore, we have hit a brick wall with the evaluation process due to all the shutdowns. It’s no longer possible to reach our intended audience for testing, so we’re having to rely on family, but I doubt we’ll get the feedback that we need from them. My third class was online anyway, so that’s fine as there isn’t any additional adjusting that I need to do for that class.
 
