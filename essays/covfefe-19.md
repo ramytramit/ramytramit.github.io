@@ -18,8 +18,9 @@ Wow, so where do we start on this essay? There’s so much I want to express, bu
 <br>
 <div class="ui divider"></div>
 
-<img class="ui small left circular floated image" src="../images/covfefe-daily.jpg">
+<img class="ui small center circular fluid image" src="../images/covfefe-daily.jpg">
 <p align="center">
+
 ## Daily Routine
 </p>
 
@@ -31,6 +32,7 @@ However, since this essay is about my worries, however minuscule they may be in 
 <img class="ui small centered circular fluid image" src="../images/covfefe-community.png">
 
 <p align="center">
+
 ## Work, Family and Community
 </p> 
 Fortunately for me, I’ve been lucky enough to work remotely. However, as I’m new at STAR, I’ve got quite a lot to learn, and even though we have the tools to share screens, use voice channels, etc. I still find it challenging asking for help – and since I know almost nothing about using AngularJS, I often find myself asking for a lot of it. On the one hand, it’s better that I look for solutions on my own, but on the other hand, I find myself being a bit slower asking for help when I need it. I just hope that doesn’t hurt me too much in this new job.
@@ -44,17 +46,27 @@ With regards to my online social life, I’d have to say that it’s been a grea
 <br>
 <div class="ui divider"></div>
 
-## College & COVID
 
-<img class="ui small left circular fluid image" src="../images/covfefe-UHM.jpg">
+<img class="ui small center circular fluid image" src="../images/covfefe-UHM.jpg">
+
+<p align="center">
+
+## College & COVID
+</p>
+
 While I’ve had semesters previously where all of my classes were online, it’s been weird adjusting in-person classes to online only ones. I really enjoyed having conversations with my classmates. It made the classes seem more … “real” … and it put more urgency to making sure that I got my assignments done on time. I don’t think there’s much room to slack off in 314, but I can’t really say that my time management’s been great. Furthermore, I was finally starting to do well in my WOD’s, which was a great feeling for someone who DNF’d as many as I did initially. The adrenaline rush from “yes, I finished!” is gone, and I miss it, but I don’t mind the new system as much. With the Meteor experiences getting harder as they go along, I’m completely fine with having the extra time to do them. However, for my mobile app design class, my partner and I are both having problems keeping up. I think having classes twice a week gave us real deadlines, and face to face talks (even though we can do it via discord or other technology), inspired us both to do more. Now, I feel as though we’re both struggling to get our project moving at a steady pace. Furthermore, we have hit a brick wall with the evaluation process due to all the shutdowns. It’s no longer possible to reach our intended audience for testing, so we’re having to rely on family, but I doubt we’ll get the feedback that we need from them. My third class was online anyway, so that’s fine as there isn’t any additional adjusting that I need to do for that class.
 
 <br>
 <div class="ui divider"></div>
 
-## Moving Forward
 
-<img class="ui small left circular fluid image" src="../images/covfefe-forward.jpg">
+<img class="ui small centered circular fluid image" src="../images/covfefe-forward.jpg">
+
+<p align="center">
+
+## Moving Forward
+</p>
+
 As far as school is concerned, I think I’ll be able to adjust to doing all online courses again. I think our current situation will help push the technologies that will make remote working and online classes easier for everyone. Maybe by 2021, 314 will have virtual versions of Professors Johnson and Moore instead of in-person classes. 
 
 In my previous job, I was completely comfortable working remotely, but for my current job, I’m undecided, and it’s mostly because I think I can learn more, quicker if I’m physically at an office with my coworkers. I do worry about my job stability, however, as I’m the low man on the totem pole. Being laid off at this point in time would greatly impact my ability to graduate in time. However, a recession is imminent, and I’m still a bit traumatized by the last one. I lost a lot at the time – I got laid off and as a result my car was repossessed, my credit absolutely crushed, my student loans went into default, and that was just the tip of that iceberg. I don’t think I’ll have to resort to having to ration my food down to a single can of tuna a day, but I’m still wary of the grim possibilities that come with a recession. 
