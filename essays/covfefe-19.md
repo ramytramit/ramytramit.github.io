@@ -12,10 +12,10 @@ labels:
 
 <br>
 
-<img class="ui small left circular fluid image" src="../images/covfefe-virus.jpg">
-
-
 # COVFEFE-19
+<br>
+
+<img class="ui small left circular fluid image" src="../images/covfefe-virus.jpg">
 Wow, so where do we start on this essay? There’s so much I want to express, but at the same time, I realize that the problem is so much bigger than just me. I’m sitting safe and cozy in a home with most of what I need, while there are people dying as a result of Covid-19. And who knows how many millions could potentially die in impoverished countries where there is absolutely NO possible way their healthcare systems can cope with the spread of this virus. 
 <br>
 <div class="ui divider"></div>
@@ -27,9 +27,8 @@ However, since this essay is about my worries, however minuscule they may be in 
 <br>
 <div class="ui divider"></div>
 
-<img class="ui small left circular fluid image" src="../images/covfefe-community.png">
-
 ## Work, Family and Community
+<img class="ui small left circular fluid image" src="../images/covfefe-community.png">
 Fortunately for me, I’ve been lucky enough to work remotely. However, as I’m new at STAR, I’ve got quite a lot to learn, and even though we have the tools to share screens, use voice channels, etc. I still find it challenging asking for help – and since I know almost nothing about using AngularJS, I often find myself asking for a lot of it. On the one hand, it’s better that I look for solutions on my own, but on the other hand, I find myself being a bit slower asking for help when I need it. I just hope that doesn’t hurt me too much in this new job.
 
 Family obligations have mostly consisted of my wife scolding her parents about being careful since they both have to go to work physically, and they tend to not take these kinds of things too seriously, and me scolding my parents about the same things. My father doesn’t even have to work, yet he feels he needs to go to the office to do god knows what? Check his fish tanks or something. But he lives in Dhaka, so I have no way of trying to make sure he actually listens. My mother is sadly stuck in Dhaka (she was there on a trip to do research for a book), due to a series of cancelled flights and lockdown on airports. We’ve already lost a decent amount of money on flight re-bookings, and now we are trying to figure out ways to mitigate her bills while she’s away. Two months ago, when I was at my previous job with my previous pay, it would not have been an issue, but after having moved over to my current job, so I could learn how to be a better coder while taking a 75% pay cut, it’s definitely stressing me out. A lot. 
@@ -41,18 +40,17 @@ With regards to my online social life, I’d have to say that it’s been a grea
 <br>
 <div class="ui divider"></div>
 
-<img class="ui small left circular fluid image" src="../images/covfefe-UHM.jpg">
 
 ## College & COVID
 
+<img class="ui small left circular fluid image" src="../images/covfefe-UHM.jpg">
 While I’ve had semesters previously where all of my classes were online, it’s been weird adjusting in-person classes to online only ones. I really enjoyed having conversations with my classmates. It made the classes seem more … “real” … and it put more urgency to making sure that I got my assignments done on time. I don’t think there’s much room to slack off in 314, but I can’t really say that my time management’s been great. Furthermore, I was finally starting to do well in my WOD’s, which was a great feeling for someone who DNF’d as many as I did initially. The adrenaline rush from “yes, I finished!” is gone, and I miss it, but I don’t mind the new system as much. With the Meteor experiences getting harder as they go along, I’m completely fine with having the extra time to do them. However, for my mobile app design class, my partner and I are both having problems keeping up. I think having classes twice a week gave us real deadlines, and face to face talks (even though we can do it via discord or other technology), inspired us both to do more. Now, I feel as though we’re both struggling to get our project moving at a steady pace. Furthermore, we have hit a brick wall with the evaluation process due to all the shutdowns. It’s no longer possible to reach our intended audience for testing, so we’re having to rely on family, but I doubt we’ll get the feedback that we need from them. My third class was online anyway, so that’s fine as there isn’t any additional adjusting that I need to do for that class.
 <br>
 <div class="ui divider"></div>
 
-<img class="ui small left circular fluid image" src="../images/covfefe-forward.jpg">
-
 ## Moving Forward
 
+<img class="ui small left circular fluid image" src="../images/covfefe-forward.jpg">
 As far as school is concerned, I think I’ll be able to adjust to doing all online courses again. I think our current situation will help push the technologies that will make remote working and online classes easier for everyone. Maybe by 2021, 314 will have virtual versions of Professors Johnson and Moore instead of in-person classes. 
 
 In my previous job, I was completely comfortable working remotely, but for my current job, I’m undecided, and it’s mostly because I think I can learn more, quicker if I’m physically at an office with my coworkers. I do worry about my job stability, however, as I’m the low man on the totem pole. Being laid off at this point in time would greatly impact my ability to graduate in time. However, a recession is imminent, and I’m still a bit traumatized by the last one. I lost a lot at the time – I got laid off and as a result my car was repossessed, my credit absolutely crushed, my student loans went into default, and that was just the tip of that iceberg. I don’t think I’ll have to resort to having to ration my food down to a single can of tuna a day, but I’m still wary of the grim possibilities that come with a recession. 
