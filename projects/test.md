@@ -1,19 +1,15 @@
 ---
 layout: project
 type: project
-image: images/snackademic_logo1.png
-title: Snackademic: A Site to Satiate Your Manoa Munchies
+image: images/walken.jpg
+title: Snackademic
 permalink: projects/more-cowbell
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-22
+date: 2020-01-23
 labels:
-  - Semantic UI
-  - React
-  - Meteor
-  - Mongo DB
+  - Music
+  - Studio
+  - Buildout
 
-summary: A website made for the final project in my ICS 314 class, Spring 2020.
+summary: My music studio that I built about 5 years ago.
 ---
-
-
-Some words
