@@ -72,7 +72,11 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Meteor",
+        "Angular",
+        "Semantic",
+        "React"
       ]
     },
     {
@@ -81,7 +85,8 @@
       "keywords": [
         "MacOS",
         "Windows",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Android Studio"
       ]
     }
   ],
@@ -99,11 +104,19 @@
   ],
   "work": [
     {
+      "company": "STAR GPS at University of Hawaii, Manoa",
+      "position": "Assistant Front-End Developer",
+      "website": "https://www.star.hawaii.edu",
+      "startDate": "2009-02-17",
+      "endDate": "Present",
+      "summary": "Assist with front end development for the STAR system, and help with University wide wordpress websitesite updates"
+    },
+    {
       "company": "Domestic Violence Action Center",
       "position": "Communications Director",
-      "website": "",
+      "website": "https:www.domesticviolenceactioncenter.org",
       "startDate": "2009-02-09",
-      "endDate": "Present",
+      "endDate": "2020-02-14",
       "summary": "Manage social media, website, collateral design and fund development for the agency.",
       "highlights": [
         "Oversaw rebranding for agency which included new logo design, agency collateral redesign, and fresh website overhaul.",
