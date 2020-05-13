@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/snackademic_logo1.png
 title: Snackademic: A Site to Satiate Your Manoa Munchies
-permalink: projects/snackademic
+permalink: https://the-back-corner.github.io/#user-guide
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-12
 labels:
