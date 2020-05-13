@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/walken.jpg
-title: Snackademic: a
+title: Snackademic
 permalink: projects/more-cowbell
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
