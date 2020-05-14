@@ -16,8 +16,10 @@ summary: A moble app design for our ICS 466 class in Spring 2020.
 <br>
 <img class="ui fluid circular medium centered image" src="../images/ygm-logo-2.jpg">
 
-**Developed by:** [Peter Newton](https://github.com/peter-newton) & [Ramit Islam](https://github.com/ramytramit) of the [Smoke Signals Dev Team](https://github.com/Smoke-Signal-Development-Team)
-<br>
+<div align="center">**Developed by:** [Peter Newton](https://github.com/peter-newton) & [Ramit Islam](https://github.com/ramytramit) of the [Smoke Signals Dev Team](https://github.com/Smoke-Signal-Development-Team)
+</div>
+<br/>
+<br/>
 
 
 No matter how advanced technologies get, they are developed with a purpose of eliminating or alleviating a rather primitive dilemma of time management and cost savings.  There is no single solution to these problems, but there are many remedies that can ease those stresses.  “You’ve Got Mail!” is a mobile application that contributes to such a cause in a way that eliminates unnecessary commutes to the post office.   
