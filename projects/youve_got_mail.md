@@ -29,7 +29,10 @@ Summary
 <br>
 <br>
 
-**Final presentation video**
+### **Final presentation video**
+
+If you'd like to view our final presentation video, please click on the image below, where you'll be redirected to YouTube. 
 <br/>
-[![You've Got Mail](https://i.imgur.com/OXUUNtq.gifv)](https://youtu.be/g9V9sGhEgdI)
+
+[![You've Got Mail](https://i.imgur.com/OXUUNtq.gif)](https://youtu.be/g9V9sGhEgdI)
 
