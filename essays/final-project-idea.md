@@ -17,7 +17,7 @@ labels:
 <div class="ui divider"></div>
 
 ## Overview
-***The problem:*** There are possibly hundreds of different problem areas that students have encountered which could be solved (to some degree) via the utilization of an app. However, ICS students (or other budding developers) may not have thought of them, thus they would not know that there’s a need to make an app to help address those issues. This app could be beneficial to the group mentioned above as well as ICS students looking for project ideas in upper level CS classes
+***The problem:*** There are possibly hundreds of different problem areas that students have encountered which could be solved (to some degree) via the utilization of an app. However, ICS students (or other budding developers) may not have thought of them, thus they would not know that there’s a need to make an app to help address those issues. This app could be beneficial to the group mentioned above as well as ICS students looking for project ideas in upper level CS classes.
 
 ***The solution:*** This app would let UH Manoa (or UH system) students, teachers or staff submit ideas that could help benefit or improve their lives. Perhaps several topic areas could be suggested, and a rating system implemented to help decide which apps would actually make it into development.
 <br>
