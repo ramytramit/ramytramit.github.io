@@ -30,4 +30,5 @@ Summary
 <br>
 
 **Final presentation video**
-[![You've Got Mail Presentation] (https://i9.ytimg.com/vi/g9V9sGhEgdI/mq3.jpg?sqp=CKiw8_UF&rs=AOn4CLByq5CToYds-RpwcLb30CVM4xBoPw)](https://www.youtube.com/watch?v=g9V9sGhEgdI)
+[![You've Got Mail](https://i9.ytimg.com/vi/g9V9sGhEgdI/mq3.jpg?sqp=CKiw8_UF&rs=AOn4CLByq5CToYds-RpwcLb30CVM4xBoPw)](https://youtu.be/g9V9sGhEgdI)
+
