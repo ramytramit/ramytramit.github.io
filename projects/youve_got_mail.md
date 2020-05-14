@@ -16,7 +16,9 @@ summary: A moble app design for our ICS 466 class in Spring 2020.
 <br>
 <img class="ui fluid circular medium centered image" src="../images/ygm-logo-2.jpg">
 
-<div align="center">**Developed by:** [Peter Newton](https://github.com/peter-newton) & [Ramit Islam](https://github.com/ramytramit) of the [Smoke Signals Dev Team](https://github.com/Smoke-Signal-Development-Team)
+<div align="center"> 
+
+**Developed by:** [Peter Newton](https://github.com/peter-newton) & [Ramit Islam](https://github.com/ramytramit) of the [Smoke Signals Dev Team](https://github.com/Smoke-Signal-Development-Team)
 </div>
 <br/>
 <br/>
