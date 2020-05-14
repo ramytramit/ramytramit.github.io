@@ -11,7 +11,7 @@ labels:
   - Studio
   - Buildout
 
-summary: My music studio that I built about 5 years ago.
+summary: My "work in progress" music studio that I built about 5 years ago.
 ---
 <div class="ui divider"></div>
 <br>
