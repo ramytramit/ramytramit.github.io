@@ -21,7 +21,7 @@ summary: A moble app design for our ICS 466 class in Spring 2020.
 Summary
 
 <br>
-<img class="ui fluid rounded image" src="../images/DVAC-website.png">
+<img class="ui fluid rounded image" src="../images/ygm_main_screen.gif">
 
 <br>
 
@@ -31,5 +31,5 @@ Summary
 
 **Final presentation video**
 <br/>
-[![You've Got Mail](https://imgur.com/OXUUNtq)](https://youtu.be/g9V9sGhEgdI)
+[![You've Got Mail](https://i.imgur.com/OXUUNtq.gifv)](https://youtu.be/g9V9sGhEgdI)
 
