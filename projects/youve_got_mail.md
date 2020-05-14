@@ -30,8 +30,8 @@ What exactly is “You’ve Got Mail!”? The idea was conceived from an issue I
  
  **Presentation video:** If you'd like to view our final presentation video, please click on the image below, where you'll be redirected to YouTube. 
  <br/>
+ 
  [<img class="ui fluid rounded image" src="../images/ygm_main_screen.gif">](https://youtu.be/g9V9sGhEgdI)
- <br/>
 
 <div class="ui divider"></div>
 
