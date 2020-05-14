@@ -31,5 +31,5 @@ Summary
 
 **Final presentation video**
 <br/>
-[![You've Got Mail](images/ygm_main_screen)](https://youtu.be/g9V9sGhEgdI)
+[![You've Got Mail](https://github.com/ramytramit/ramytramit.github.io/blob/master/images/ygm_main_screen.gif)](https://youtu.be/g9V9sGhEgdI)
 
