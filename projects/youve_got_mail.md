@@ -21,7 +21,7 @@ summary: A moble app design for our ICS 466 class in Spring 2020.
 Summary
 
 <br>
-<img class="ui fluid rounded image" src="../images/ygm_main_screen.gif">
+[<img class="ui fluid rounded image" src="../images/ygm_main_screen.gif">](http://www.google.com)
 
 <br>
 
