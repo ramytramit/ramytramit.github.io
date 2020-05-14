@@ -16,10 +16,8 @@ summary: A moble app design for our ICS 466 class in Spring 2020.
 <br>
 <img class="ui fluid circular medium centered image" src="../images/ygm-logo-2.jpg">
 
-<div align="center"> 
-
 **Developed by:** [Peter Newton](https://github.com/peter-newton) & [Ramit Islam](https://github.com/ramytramit) of the [Smoke Signals Dev Team](https://github.com/Smoke-Signal-Development-Team)
-</div>
+
 <br/>
 <br/>
 
@@ -34,7 +32,7 @@ What exactly is “You’ve Got Mail!”? The idea was conceived from an issue I
 
  In its simplest form, the concept of “You’ve Got Mail!” would function as such: the P.O. Box rental facility would utilize the app to push a notification to the PO Box user, letting them know that they’ve received mail. The notifications could be as simple as letting them know they received regular mail, or packages, or that their box is full, for example. The application’s main purpose is to serve as a tool to make the lives of PO Box users a bit more efficient, whether they live busy lives in an urban environment, or they live in rural areas where they live far from their local Post Offices and need to travel a great distance to retrieve their mail (Finn). It can also be quite beneficial for PO Box renters who may have difficulties with transportation to their PO Box locations – maybe they catch the bus, or they have a disability making it difficult for them to walk or drive. “You’ve Got Mail!” would also serve as a single source to track PO Box notifications from rental facilities run by private companies, UPS, and the commonly used USPS. 
  
- **Presentation video:** If you'd like to view our final presentation video, please click on the image below, where you'll be redirected to YouTube. 
+ **Presentation video:** If you'd like to view our final presentation video, please click on the image below, where you'll be redirected to YouTube ...  it's worth the watch, trust me! 
  <br/>
  
  [<img class="ui fluid rounded image" src="../images/ygm_main_screen.gif">](https://youtu.be/g9V9sGhEgdI)
