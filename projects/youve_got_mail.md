@@ -27,6 +27,10 @@ No matter how advanced technologies get, they are developed with a purpose of el
 What exactly is “You’ve Got Mail!”? The idea was conceived from an issue I was having when I first started renting a PO Box for my father who lives abroad.  I found myself going to the post office a few times a week to check the mail for him. Most of the time the box was empty, so I started going once a week, then every other week, and so on. However, he would call me every so often to let me know there would be some important mail coming, but I never really knew when to expect it, so I was back in the same cycle of wasting time and gas driving. At the time I thought to myself, “why don’t they have any sort of notification app?” ... fast forward a few years, and here we are developing that exact thing!
 
  In its simplest form, the concept of “You’ve Got Mail!” would function as such: the P.O. Box rental facility would utilize the app to push a notification to the PO Box user, letting them know that they’ve received mail. The notifications could be as simple as letting them know they received regular mail, or packages, or that their box is full, for example. The application’s main purpose is to serve as a tool to make the lives of PO Box users a bit more efficient, whether they live busy lives in an urban environment, or they live in rural areas where they live far from their local Post Offices and need to travel a great distance to retrieve their mail (Finn). It can also be quite beneficial for PO Box renters who may have difficulties with transportation to their PO Box locations – maybe they catch the bus, or they have a disability making it difficult for them to walk or drive. “You’ve Got Mail!” would also serve as a single source to track PO Box notifications from rental facilities run by private companies, UPS, and the commonly used USPS. 
+ 
+ **Presentation video:** If you'd like to view our final presentation video, please click on the image below, where you'll be redirected to YouTube. 
+ <br/>
+ [<img class="ui fluid rounded image" src="../images/ygm_main_screen.gif">](https://youtu.be/g9V9sGhEgdI)
 
 <div class="ui divider"></div>
 
@@ -67,27 +71,11 @@ The evaluation process consisted of giving the test subjects a list of tasks and
 
 ## Final Version & Thoughts
 
-<img class="ui fluid rounded image" src="../images/ygm-all-screens-old.jpg">
+<img class="ui fluid rounded image" src="../images/ygm-all-screens-new.jpg">
 
 The designing process for You’ve Got Mail was a great learning experience, one that has helped us to become better developers, marketers and in a general sense, better business minded individuals. Combining all the things that we learned in class has been invaluable for the growth of our design. While the application is a simple one, we believe that the clean UI and uncomplicated design will help us to sell the app to PO Box facilities that don’t already have a similar app their business uses. PO Box renters will benefit from the software by not having to waste valuable time going to check their empty mailboxes, and the facilities that use this app will be able to provide an added feature to both current and potential renters; this of course, will give these facilities an edge over others that don’t offer these same features to their clients. . With further development and features that can be easily added on, we believe You’ve Got Mail! has a bright future in both the Android and iPhone markets! 
-
-<div class="ui divider"></div>
-
-<br>
-[<img class="ui fluid rounded image" src="../images/ygm_main_screen.gif">](https://youtu.be/g9V9sGhEgdI)
-
-
 <br>
 <br>
 
-### **Final presentation video**
 
-If you'd like to view our final presentation video, please click on the image below, where you'll be redirected to YouTube. 
-<br/>
-
-[![You've Got Mail](https://i.imgur.com/OXUUNtq.gif)](https://youtu.be/g9V9sGhEgdI)
-
-...
-
-[<img class="ui fluid rounded image" src="../images/ygm_main_screen.gif">](https://youtu.be/g9V9sGhEgdI)
 
