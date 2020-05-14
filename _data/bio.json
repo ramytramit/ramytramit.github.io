@@ -68,24 +68,33 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Angular JS",
+        "Angular JS Material",
         "C",
         "C++",
+        "CSS",
+        "HTML",
         "Java",
         "Javascript",
+        "JSON",
         "Meteor",
-        "Angular",
+        "React",
         "Semantic",
-        "React"
+        "SQL"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Android Studio",
+        "Git/GitHub/GitKraken",
         "MacOS",
-        "Windows",
-        "Git/GitHub",
-        "Android Studio"
+        "Meteor",
+        "Microsoft SQL Server",
+        "Mongo DB",
+        "Ubuntu",
+        "Windows"
       ]
     }
   ],
