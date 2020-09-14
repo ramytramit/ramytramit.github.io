@@ -108,7 +108,20 @@
       "startDate": "2017-01-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": "Algorithms, Computer Security & Ethics, Data Networks, Data Storage & Retreival, Design for Mobile Devices, Digital Forensics, Discreet Mathematics for CS I & II, Introduction to Computer Science I & II, Machine Leven & Systems Programming, Operating Systems, Program Structure (ICS Scripting & C, C++), Software Engineering I & II, Wireless Data Networks, [
+      "courses": [
+        "Algorithms", 
+        "Computer Security & Ethics", 
+        "Data Networks", 
+        "Data Storage & Retreival", 
+        "Design for Mobile Devices", 
+        "Digital Forensics", 
+        "Discreet Mathematics for CS I & II", 
+        "Introduction to Computer Science I & II", 
+        "Machine Level & Systems Programming", 
+        "Operating Systems", 
+        "Program Structure (ICS Scripting & C/C++)", 
+        "Software Engineering I & II", 
+        "Wireless Data Networks"
       ]
     }
   ],
