@@ -108,6 +108,12 @@
       "startDate": "2017-01-01",
       "endDate": "Present",
       "gpa": "",
+      "name": "Courses",
+      "keywords": [
+        "Algorithms",
+        "Computer Security & Ethics",
+        "Data Networks"
+        ]
       "courses": [
         "Algorithms", 
         "Computer Security & Ethics", 
