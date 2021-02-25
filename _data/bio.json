@@ -3,7 +3,7 @@
     "name": "Ramit Islam",
     "label": "Student",
     "picture": "https://avatars3.githubusercontent.com/u/53219044?s=400&v=4",
-    "email": "islam@hawaii.edu",
+    "email": "ramit.islam@gmail.com",
     "website": "https://ramytramit.github.io",
     "summary": "I am a student in the B.S. program in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
     "location": {
@@ -131,8 +131,8 @@
       "position": "Assistant Front-End Developer",
       "website": "https://www.star.hawaii.edu",
       "startDate": "2020-02-17",
-      "endDate": "Present",
-      "summary": "Assist with front end development for the STAR system, and help with campus-wide wordpress site updates"
+      "endDate": "2020-12-15",
+      "summary":  *item "Worked on pop-up modules and other site enhancements for the UH STAR class registration and calendaring system, which resulted in student/advisor UI experience improvements; development utilized the AngularJS framework, JavaScript, HTML, CSS, GitBucket/GitKraken for source control, and Trello for project management"
     },
     {
       "company": "Domestic Violence Action Center",
@@ -148,10 +148,10 @@
     }, 
     {
       "company": "AYA Events",
-      "position": "Owner and Principle Producer",
+      "position": "President/Owner",
       "website": "",
-      "startDate": "1997-12-01",
-      "endDate": "Present",
+      "startDate": "2000-01-01",
+      "endDate": "2017-01-01",
       "summary": "Manage promotions, marketing and project organization for clubs and specialized music/dance events.",
       "highlights": [
         "Featured Spotlight in two magazines.",
