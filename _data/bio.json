@@ -132,7 +132,8 @@
       "website": "https://www.star.hawaii.edu",
       "startDate": "2020-02-17",
       "endDate": "2020-12-15",
-      "summary":  [
+      "summary": "Assisted development team with website feature updates and university wordpress site builds and maintenance.",
+      "highlights": [
         "Worked on pop-up modules and other site enhancements for the UH STAR class registration and calendaring system, which resulted in student/advisor UI experience improvements; development utilized the AngularJS framework, JavaScript, HTML, CSS, GitBucket/GitKraken for source control, and Trello for project management."
         "Administered campus-wide WordPress website updates, technical support, and set framework for new department sites and databases, website buildout and maintenance training for department administrators."
         ]
