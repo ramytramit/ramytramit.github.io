@@ -61,11 +61,10 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages & Frameworks",
       "level": "",
       "keywords": [
         "Angular JS",
-        "Angular JS Material",
         "Assembly",
         "C",
         "C++",
@@ -82,7 +81,7 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets & OS",
       "level": "",
       "keywords": [
         "Android Studio",
