@@ -76,7 +76,7 @@
         "JSON",
         "Meteor",
         "Python",
-        "React",
+        "React JS",
         "Semantic UI",
         "SQL"
       ]
@@ -87,12 +87,28 @@
       "keywords": [
         "Android Studio",
         "Git/GitHub/GitKraken",
+        "Linux",
         "MacOS",
         "Meteor",
         "Microsoft SQL Server",
         "Mongo DB",
+        "phpMyAdmin",
         "Ubuntu",
         "Windows"
+      ]
+    },
+    {
+      "name": "Graphic Design & Video Editing",
+      "level": "",
+      "keywords": [
+        "Adobe Photoshop",
+        "Adobe InDesign",
+        "Adobe Illustrator",
+        "Adobe XD",
+        "Adobe Premiere Pro",
+        "Canva",
+        "iMovie",
+        "Final Cut Pro"
       ]
     }
   ],
